@@ -1,0 +1,1 @@
+This is the guide to cloning and forking the repository for a project.
